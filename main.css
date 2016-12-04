@@ -1,0 +1,20 @@
+div {
+
+		
+	background-color:teal
+	
+}
+div#photos {
+background-color: black
+}
+div img {
+	border:2px solid black
+}
+footer {
+	background-color: blue;
+	color: red;
+	font-style: italic;
+	font-size: 40px;
+	font-weight: bold;
+	height: 300px;
+}
